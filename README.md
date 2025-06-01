@@ -89,6 +89,99 @@ me.say_hi()
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Choozy - Decision Making App
+**Tech Stack:** `Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+The ultimate decision-making app that helps you make tough choices! Create image polls and get instant feedback from your friends to make better decisions together.
+
+**Key Features:**
+- Create and share interactive image polls
+- Build a network of trusted friends for feedback
+- Real-time voting and results visualization
+- User-friendly interface with responsive design
+- Social decision-making platform
+
+[![Private](https://img.shields.io/badge/Private-Repository-FF6B6B?style=flat-square&logo=github)]()
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square&logo=render)](https://choozy.onrender.com/home)
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud Architect AI Agent
+**Tech Stack:** `Python` `FastAPI` `Groq` `React` `LangGraph`
+
+An AI-powered web application that generates complete cloud architecture solutions including diagrams, Terraform code, cost estimation, and disaster recovery strategies.
+
+**Key Features:**
+- AI-generated cloud architecture designs
+- Automatic Terraform code generation
+- Cost estimation and optimization
+- Disaster recovery strategy planning
+- Interactive architecture visualization
+
+[![Private](https://img.shields.io/badge/Private-Repository-FF6B6B?style=flat-square&logo=github)]()
+[![Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square&logo=aws)](http://d2ehpel9akd9yv.cloudfront.net/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 AI Social Media Analytics Tool
+**Tech Stack:** `Python` `Streamlit` `Plotly` `LangFlow` `DataStax Astra` `OpenAI`
+
+Comprehensive social media analytics platform that provides AI-driven insights into engagement metrics, post performance, and audience behavior patterns.
+
+**Key Features:**
+- Real-time social media metrics tracking
+- AI-powered post performance analysis
+- Interactive Plotly dashboards and visualizations
+- Multi-format content analysis (carousel, image, video)
+- Scalable data management with DataStax Astra DB
+
+[![Private](https://img.shields.io/badge/Private-Repository-FF6B6B?style=flat-square&logo=github)]()
+[![Status](https://img.shields.io/badge/Status-In_Development-FFA500?style=flat-square&logo=streamlit)]()
+
+</td>
+<td width="50%">
+
+### 🔍 AI-Enabled Observability Platform
+**Tech Stack:** `Python` `Groq` `FastAPI` `LangGraph` `ChromaDB` `HuggingFace` `GCP`
+
+Intelligent monitoring platform for hybrid environments with AI-driven anomaly detection, root cause analysis, and predictive insights for optimal system performance.
+
+**Key Features:**
+- Hybrid cloud and on-premises monitoring
+- AI-powered anomaly detection and alerting
+- Predictive analytics for proactive maintenance
+- Vector database integration for efficient log analysis
+- Real-time performance optimization recommendations
+
+[![Private](https://img.shields.io/badge/Private-Repository-FF6B6B?style=flat-square&logo=github)]()
+[![Status](https://img.shields.io/badge/Status-In_Development-FFA500?style=flat-square&logo=googlecloud)]()
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔒 **Note on Private Projects**
+*Some repositories are private due to proprietary code or ongoing development. Contact me for detailed technical discussions or code samples.*
+
+</div>
+
+<div align="center">
+
+---
+
+
 ## 🏅 Coding Profiles
 
 <div align="center">
